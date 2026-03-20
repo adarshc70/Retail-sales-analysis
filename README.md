@@ -41,3 +41,6 @@ Data cleaning
 EDA
 Visualization
 Business analysis
+
+SQL Analysis
+Performed SQL analysis to extract sales trends, top products and loss generating categories using aggregate functions and GROUP BY queries.
